@@ -1,1 +1,2 @@
 # ministatment
+print hello word
